@@ -1,4 +1,4 @@
-package com.example.cicd_1;
+package com.example.cloud4cicd1;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -10,7 +10,7 @@ public class HomeController {
     @ResponseBody
     @GetMapping("/hi")
     public  String hi(){
-        return  "hi";
+        return  "h  ^^^^i 0630";
     }
 
 
