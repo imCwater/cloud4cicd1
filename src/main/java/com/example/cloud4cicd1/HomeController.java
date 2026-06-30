@@ -24,6 +24,6 @@ public class HomeController {
     @ResponseBody
     @GetMapping("/hi3")
     public  String hi3(){
-        return  "hi3";
+        return  "hi3   ^^";
     }
 }
