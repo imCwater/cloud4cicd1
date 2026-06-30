@@ -17,7 +17,7 @@ public class HomeController {
     @ResponseBody
     @GetMapping("/hi2")
     public  String hi2(){
-        return  "hi2";
+        return  "hi2    나해수 ";
     }
 
 
